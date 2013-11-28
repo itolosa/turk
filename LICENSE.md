@@ -1,4 +1,4 @@
-Copyright (c) 2012, Rodrigo Fuentealba
+Copyright (c) 2013, Rodrigo Fuentealba
 --------------------------------------
 
 Permission is hereby granted, free of charge, to any
